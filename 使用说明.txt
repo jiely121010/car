@@ -1,0 +1,8 @@
+1.导入simcms.sql到你的数据库
+2.修改根目录下面的config.php里的数据库连接信息。
+3.确保cache,buycars,contact,news,templates_c,upload目录有修改写入权限
+4.后台管理地址为：http://您的域名/adm.php,管理员用户名为admin 密码:123456
+5.后台登录之后清除缓存
+6.找到“生成静态”，依次生成所有页面！
+
+手机版访问地址：/m
